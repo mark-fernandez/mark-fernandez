@@ -34,7 +34,6 @@ I am a Technical Artist and Aspiring Programmer who is exploring Web3 and Full S
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-fernandez&theme=buefy&layout=compact" />
 </a>
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/mark-fernandez)
 
 ---
 

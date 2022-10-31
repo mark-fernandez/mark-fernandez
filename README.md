@@ -29,7 +29,7 @@ I am a Technical Artist and Aspiring Programmer who is exploring Web3 and Full S
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-fernandez&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-fernandez&theme=buefy&show_icons=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/mark-fernandez)
 

@@ -25,7 +25,7 @@ I am a Technical Artist and Aspiring Programmer who is exploring Web3 and Full S
 
 ### Tech & Tools Preference
 
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ---
 

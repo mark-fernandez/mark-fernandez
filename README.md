@@ -10,7 +10,7 @@ I am a Technical Artist and Aspiring Programmer who is exploring Web3 and Full S
  
  🔭 I’m planning on creating my own porfolio website to showcase some of skill I've been learning.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"> Google Cloud Platform
  
  :books: I want to learn more about <img src="https://img.shields.io/badge/-solidity-blue?style=flat&logo=solidity"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
  

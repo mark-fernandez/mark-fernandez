@@ -31,7 +31,7 @@ I am a Technical Artist and Aspiring Programmer who is exploring Web3 and Full S
 
 <a href="https://github.com/mark-fernandez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mark-fernandez&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-fernandez&theme=buefy&layout=compact" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-fernandez&theme=buefy&layout=compact" />
 </a>
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/mark-fernandez)

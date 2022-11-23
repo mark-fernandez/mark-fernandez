@@ -30,7 +30,7 @@ I am a Technical Artist and Aspiring Programmer who is exploring Web3 and Full S
 ---
 
 <a href="https://github.com/mark-fernandez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mark-fernandez&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mark-fernandez&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-fernandez&theme=dark&layout=compact" />
 </a>
 
